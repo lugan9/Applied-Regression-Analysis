@@ -1,5 +1,9 @@
-## STA1001_Applied-Regression-Analysis
+## Applied-Regression-Analysis
 
-Assignment: Data Analysis Project
+Course: STA1001 Applied Regression Analysis
 </br>
-Final Project Report
+### Final Project: Build Regression Models to Predict Computer Hardware Performance
+</br>
+### Assignment: Data Analysis Project
+</br>
+Question Source: A modern Approach to Regression with R, Simon J Sheather.
